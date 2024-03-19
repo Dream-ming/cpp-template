@@ -1,5 +1,3 @@
-```cpp
-
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
@@ -91,4 +89,3 @@ signed main(){
 	
 	return 0;
 }
-```
