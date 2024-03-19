@@ -1,4 +1,4 @@
-#pragma once
+```cpp
 
 #include<iostream>
 #include<cstdio>
